@@ -1,0 +1,6 @@
+*.ppm
+*.o
+*.png
+wlt-tests
+main.cpp
+makefile
